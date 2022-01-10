@@ -1,0 +1,9 @@
+
+.pagination-card {
+    width: 100%;;
+}
+
+.pagination-cont {
+    display: flex;
+    justify-content: space-evenly;
+}

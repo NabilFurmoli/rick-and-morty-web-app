@@ -1,0 +1,8 @@
+.card {
+    margin: 12px;
+}
+
+.character-card:hover {
+    cursor: pointer;
+    background-color: #09A2C2 !important;
+}

@@ -1,0 +1,12 @@
+.character-img-container {
+    text-align: center;
+}
+
+.character-img {
+    width: 100%;
+    height: 100%;
+}
+
+.details-card {
+    flex-direction: row !important;
+}
