@@ -11,21 +11,21 @@
  Inlcudes Source codes and Components responsible to build User interfaces and logics associated to Rick and Morty Characters.
 
  # Error handling
- I have made sure to catch error and show an informative message in the assosiated components. For example, if fetching a location information of character fails.Using React conditions, I show a "No location details avaliable in the associated UI componet'. 
+ I have made sure to catch error and show an informative message in the assosiated components. For example, if fetching a location information of character fails. Using condition rendering, I show a "No location details avaliable" in the associated UI component. 
 
- Note: In a real project I would also use toast libary to show the specific error message. I am very sick and for the sake fo time, for now, I retreive the error message and log it in the console.
+ Note: In a real project I would also use a toast libary to show the specific error message. I am very sick with Covid-19 and for the sake fo time, for now, I only retreive the error message and log it in the console.
 
  # Testing
  I did manual testing at the moment, If I was not sick, I would have wrote automated test scripts using Jest and React-testing-library.
 
  # Third Party Libraries
  ### Axios
- ### Reactsrap
+ ### Reactstrap
 
  # If I had time for improvements
- 1. I would added a toust feature to show error messages or other informative messages.
+ 1. I would have added a toast feature to show error messages or other informative messages.
 
- 2. I would have improved pagination feature to not just show a prev and next buttun but a range of pages. This way it would be easy for user to visit an desired page. Instead of clicking next button multiple times to get to a desired page.
+ 2. I would have improved pagination feature to not just show a prev and next buttun but a range of pages. This way it would be easy for user to visit a desired page quicker. Instead of clicking next or prev button multiple times to get to a desired page.
 
 
 
